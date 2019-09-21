@@ -1,0 +1,33 @@
+
+/* Class = "UIButton"; normalTitle = "RESET"; ObjectID = "1hs-89-phO"; */
+"1hs-89-phO.normalTitle" = "СБРОС";
+
+/* Class = "UIButton"; normalTitle = "GALLERY"; ObjectID = "6ue-wf-09W"; */
+"6ue-wf-09W.normalTitle" = "ГАЛЕРЕЯ";
+
+/* Class = "UILabel"; text = "Top level: 4"; ObjectID = "7ES-YB-VkX"; */
+"7ES-YB-VkX.text" = "Top level: 4";
+
+/* Class = "UILabel"; text = "SCORE"; ObjectID = "ARt-1X-fEZ"; */
+"ARt-1X-fEZ.text" = "СЧЕТ";
+
+/* Class = "UILabel"; text = "LEVEL 1"; ObjectID = "QZx-QL-Kum"; */
+"QZx-QL-Kum.text" = "LEVEL 1";
+
+/* Class = "UILabel"; text = "Swipe to back"; ObjectID = "Z1H-Rl-njk"; */
+"Z1H-Rl-njk.text" = "Смахните чтобы вернуться";
+
+/* Class = "UIButton"; normalTitle = "START GAME"; ObjectID = "ZgI-ep-WKG"; */
+"ZgI-ep-WKG.normalTitle" = "ИГРАТЬ";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "chZ-iE-8fU"; */
+"chZ-iE-8fU.text" = "0";
+
+/* Class = "UILabel"; text = "Top score: 1552"; ObjectID = "dUi-Ws-SQH"; */
+"dUi-Ws-SQH.text" = "Рекорд: 1552";
+
+/* Class = "UILabel"; text = "Swipe to back"; ObjectID = "ebG-pU-8KW"; */
+"ebG-pU-8KW.text" = "Смахните чтобы вернуться";
+
+/* Class = "UILabel"; text = "GALLERY"; ObjectID = "oOJ-sq-iDk"; */
+"oOJ-sq-iDk.text" = "ГАЛЕРЕЯ";

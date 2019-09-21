@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  CrazyAnimalsFlipCards
+
+  Created by Роман Кабиров on 09.11.17.
+  Copyright © 2017 Logical Mind. All rights reserved.
+*/
+
+"Top level:" = "Top level:";
+"Top score:" = "Top score:";
+
+"Reset top scores" = "Reset top scores";
+"Do you really want to reset top scores?" = "Do you really want to reset top scores?";
+"Yes" = "Yes";
+"Cancel" = "Cancel";
+
+"LEVEL" = "LEVEL";
+
+"Lucky!" = "Lucky!";
+"Congrats!" = "Congrats!";
+"The end" = "The end";
+
+"Your level:" = "Your level:";
+"Your score:" = "Your score:";
